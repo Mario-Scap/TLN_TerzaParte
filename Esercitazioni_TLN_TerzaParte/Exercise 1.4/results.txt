@@ -1,0 +1,52 @@
+Current verb : eat
+
+Analized 24 sentences 
+For the verb: eat pair of semantic type are:
+
+	< communication:substance > Count 1 
+	< communication:quantity > Count 1 
+	< quantity:body > Count 1 
+	< person:plant > Count 3 
+	< person:person > Count 1 
+	< person:animal > Count 1 
+	< group:plant > Count 1 
+	< person:communication > Count 2 
+	< entity:body > Count 1 
+	< person:quantity > Count 1 
+	< person:all > Count 2 
+	< person:food > Count 6 
+	< person:entity > Count 1 
+	< animal:group > Count 1 
+	< person:substance > Count 1 
+
+
+Current verb : read
+
+Analized 65 sentences 
+For the verb: read pair of semantic type are:
+
+	< person:communication > Count 23 
+	< person:artifact > Count 4 
+	< person:entity > Count 8 
+	< group:communication > Count 1 
+	< group:location > Count 1 
+	< person:change > Count 1 
+	< person:person > Count 3 
+	< entity:person > Count 1 
+	< person:cognition > Count 1 
+	< person:attribute > Count 1 
+	< all:quantity > Count 2 
+	< person:time > Count 1 
+	< person:all > Count 4 
+	< quantity:possession > Count 1 
+	< act:communication > Count 2 
+	< quantity:entity > Count 2 
+	< person:quantity > Count 1 
+	< relation:time > Count 1 
+	< group:state > Count 2 
+	< group:stative > Count 1 
+	< person:substance > Count 1 
+	< person:event > Count 1 
+	< person:location > Count 1 
+	< group:person > Count 1 
+
